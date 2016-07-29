@@ -45,3 +45,4 @@ src/obj/
 src/bin/
 .vs/
 *.suo
+*.user
